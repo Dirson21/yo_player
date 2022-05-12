@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>ico/media-mute-32.png</file>
+        <file>ico/media-volume-1-32.png</file>
+        <file>ico/media-volume-2-32.png</file>
+        <file>ico/media-volume-3-32.png</file>
+        <file>ico/next.png</file>
+        <file>ico/pause.png</file>
+        <file>ico/play.png</file>
+        <file>ico/prev.png</file>
+        <file>ico/stop.png</file>
+        <file>ico/add.png</file>
+        <file>ico/yo_player.ico</file>
+        <file>ico/delete.png</file>
+        <file>ico/minus-32.png</file>
+    </qresource>
+</RCC>
